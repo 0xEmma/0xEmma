@@ -1,4 +1,4 @@
-# Hi Their!
+# Hi There!
 
 ## About me
 I am a Security Researcher, I like to break random things and add them to my CVE Collection :P 
