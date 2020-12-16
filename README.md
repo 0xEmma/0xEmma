@@ -3,7 +3,7 @@
 ## About me
 I am a Security Researcher, I like to break random things and add them to my CVE Collection :P 
 
-You can checkout my blog at https://0xem.ma, or contact me @ [mailto:emma@0xem.ma](emma@0xem.ma)
+You can checkout my blog at https://0xem.ma, or contact me @ [emma@0xem.ma](mailto:emma@0xem.ma)
 
 She/Her
 
