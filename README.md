@@ -8,3 +8,5 @@ You can checkout my blog at https://0xem.ma, or contact me @ [emma@0xem.ma](mail
 She/Her
 
 [![0xEmma's github stats](https://github-readme-stats.vercel.app/api?username=0xEmma&count_private=true&show_icons=true&theme=dark)](https://github.com/0xEmma)
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
