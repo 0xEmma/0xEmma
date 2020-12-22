@@ -11,6 +11,6 @@ She/Her
 <!--START_SECTION:waka-->
 ```text
 Python   2 hrs 51 mins   ████████████████████████▒   97.02 % 
-Text     4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.82 % 
+Text     4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.81 % 
 ```
 <!--END_SECTION:waka-->
