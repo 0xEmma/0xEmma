@@ -10,6 +10,6 @@ She/Her
 [![0xEmma's github stats](https://github-readme-stats.vercel.app/api?username=0xEmma&count_private=true&show_icons=true&theme=dark)](https://github.com/0xEmma)
 <!--START_SECTION:waka-->
 ```text
-Python   1 hr 52 mins    █████████████████████████   99.70 % 
+Python   44 mins         ████████████████████████▓   99.24 % 
 ```
 <!--END_SECTION:waka-->
