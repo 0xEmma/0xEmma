@@ -10,10 +10,10 @@ She/Her
 [![0xEmma's github stats](https://github-readme-stats.vercel.app/api?username=0xEmma&count_private=true&show_icons=true&theme=dark)](https://github.com/0xEmma)
 <!--START_SECTION:waka-->
 ```text
-Python   2 hrs 32 mins   ███████████████████████▓░   94.52 % 
-Other    2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.55 % 
-Bash     2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.48 % 
-Text     2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.44 % 
-YAML     1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.84 % 
+Python   1 hr 4 mins     ██████████████████████░░░   88.24 % 
+Other    2 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.45 % 
+Bash     2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.27 % 
+Text     2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.20 % 
+YAML     1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.85 % 
 ```
 <!--END_SECTION:waka-->
