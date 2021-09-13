@@ -10,8 +10,9 @@ She/Her
 [![0xEmma's github stats](https://github-readme-stats.vercel.app/api?username=0xEmma&count_private=true&show_icons=true&theme=dark)](https://github.com/0xEmma)
 <!--START_SECTION:waka-->
 ```text
-Docker       11 mins         █████████████▓░░░░░░░░░░░   54.73 % 
-Other        5 mins          ███████░░░░░░░░░░░░░░░░░░   27.80 % 
-Bash         2 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   14.41 % 
+JSON     1 hr 17 mins    ███████████████████▓░░░░░   79.15 % 
+Docker   11 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.36 % 
+Other    5 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.77 % 
+Bash     2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.99 % 
 ```
 <!--END_SECTION:waka-->
