@@ -10,10 +10,10 @@ She/Her
 [![0xEmma's github stats](https://github-readme-stats.vercel.app/api?username=0xEmma&count_private=true&show_icons=true&theme=dark)](https://github.com/0xEmma)
 <!--START_SECTION:waka-->
 ```text
-JSON         15 mins         ████████░░░░░░░░░░░░░░░░░   32.19 % 
-HTML         13 mins         ███████░░░░░░░░░░░░░░░░░░   28.46 % 
-JavaScript   5 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   11.27 % 
-YAML         4 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.39 % 
-Python       3 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.94 % 
+JSON         15 mins         █████████▒░░░░░░░░░░░░░░░   37.05 % 
+HTML         13 mins         ████████▒░░░░░░░░░░░░░░░░   32.75 % 
+JavaScript   4 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.85 % 
+YAML         4 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.81 % 
+Bash         2 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.68 % 
 ```
 <!--END_SECTION:waka-->
