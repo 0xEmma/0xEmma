@@ -10,6 +10,8 @@ She/Her
 [![0xEmma's github stats](https://github-readme-stats.vercel.app/api?username=0xEmma&count_private=true&show_icons=true&theme=dark)](https://github.com/0xEmma)
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Total: 4 mins
+
+Python     4 mins          █████████████████████████   99.67 % 
 ```
 <!--END_SECTION:waka-->
