@@ -11,7 +11,9 @@ She/Her
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+Python   25 mins         ████████████████████████▒   96.68 %
+JSON     0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.26 %
+Other    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
 ```
 
 <!--END_SECTION:waka-->
