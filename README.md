@@ -11,9 +11,7 @@ She/Her
 <!--START_SECTION:waka-->
 
 ```text
-Python   25 mins         ████████████████████████▒   96.71 %
-JSON     0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.24 %
-Other    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
+Python   0 secs          █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
