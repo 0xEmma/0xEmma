@@ -11,9 +11,7 @@ She/Her
 <!--START_SECTION:waka-->
 
 ```text
-Smali        5 mins          ████████████████████▒░░░░   81.57 %
-Properties   0 secs          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.72 %
-Other        0 secs          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.10 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
