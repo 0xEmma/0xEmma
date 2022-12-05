@@ -11,7 +11,12 @@ She/Her
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+Python       19 mins         ██████████▒░░░░░░░░░░░░░░   41.47 %
+Markdown     12 mins         ██████▓░░░░░░░░░░░░░░░░░░   26.31 %
+Vue.js       8 mins          ████▒░░░░░░░░░░░░░░░░░░░░   17.24 %
+JavaScript   6 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   14.20 %
+JSON         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 %
+HTML         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 %
 ```
 
 <!--END_SECTION:waka-->
