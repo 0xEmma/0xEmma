@@ -11,7 +11,7 @@ She/Her
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+Python   0 secs          █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
