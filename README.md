@@ -11,7 +11,12 @@ She/Her
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+Docker       10 mins         ███████████▓░░░░░░░░░░░░░   46.50 %
+Python       9 mins          █████████▓░░░░░░░░░░░░░░░   38.78 %
+YAML         1 min           █▒░░░░░░░░░░░░░░░░░░░░░░░   05.61 %
+JavaScript   1 min           █▒░░░░░░░░░░░░░░░░░░░░░░░   05.58 %
+Text         0 secs          █░░░░░░░░░░░░░░░░░░░░░░░░   03.45 %
+JSON         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
 ```
 
 <!--END_SECTION:waka-->
