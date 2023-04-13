@@ -11,8 +11,8 @@ She/Her
 <!--START_SECTION:waka-->
 
 ```text
-YAML    2 hrs 39 mins   ████████████████████████░   96.64 %
-Other   5 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.29 %
+YAML    3 hrs 37 mins   ████████████████████████▒   97.39 %
+Other   5 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.50 %
 ```
 
 <!--END_SECTION:waka-->
