@@ -17,7 +17,9 @@ It/Fae/They
 <!--START_SECTION:waka-->
 
 ```txt
-YAML   0 secs          █████████████████████████   100.00 %
+Markdown   5 mins          ██████████████████████▓░░   90.52 %
+YAML       0 secs          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.36 %
+INI        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 %
 ```
 
 <!--END_SECTION:waka-->
