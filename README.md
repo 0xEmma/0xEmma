@@ -17,11 +17,7 @@ It/Fae/They
 <!--START_SECTION:waka-->
 
 ```txt
-YAML       34 mins         ███████████████▓░░░░░░░░░   62.51 %
-HTML       9 mins          ████▒░░░░░░░░░░░░░░░░░░░░   17.41 %
-Python     7 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   13.60 %
-JSON       1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.31 %
-Other      1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.85 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
