@@ -17,7 +17,10 @@ It/Fae/They
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+YAML    42 mins         ████████████████████████▓   98.06 %
+Other   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.20 %
+Text    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 %
+JSON    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 %
 ```
 
 <!--END_SECTION:waka-->
