@@ -17,7 +17,8 @@ It/Fae/They
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Other    3 mins          █████████████████████████   99.67 %
+Python   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 %
 ```
 
 <!--END_SECTION:waka-->
