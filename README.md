@@ -17,7 +17,8 @@ It/Fae/They
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+TypeScript   11 mins         ██████████████████████▓░░   90.65 %
+CSS          1 min           ██▒░░░░░░░░░░░░░░░░░░░░░░   09.35 %
 ```
 
 <!--END_SECTION:waka-->
