@@ -17,11 +17,11 @@ It/Fae/They
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   1 hr 37 mins    ███████████████░░░░░░░░░░   60.15 %
+TypeScript   1 hr 37 mins    ███████████████░░░░░░░░░░   60.14 %
 YAML         34 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.24 %
 JavaScript   10 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.20 %
 JSON         5 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.57 %
-Bash         5 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.41 %
+Bash         5 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.42 %
 ```
 
 <!--END_SECTION:waka-->
